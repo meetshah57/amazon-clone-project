@@ -1,3 +1,23 @@
+A small web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them, and have your user authentification feauture thanks to Firebase.
+Amazon Clone is a project where you can create a product, add the products to the cart, do a payment, and watch your order history.
+The design is based on Amazon.
+
+# Captures
+![image](https://user-images.githubusercontent.com/83093603/116290472-1c40f080-a7b1-11eb-8aeb-ea9b887c2ec1.png)
+![image](https://user-images.githubusercontent.com/83093603/116290546-324eb100-a7b1-11eb-8c7e-803f8a1560a8.png)
+![image](https://user-images.githubusercontent.com/83093603/116290590-42ff2700-a7b1-11eb-853a-7521dfd34f1e.png)
+![image](https://user-images.githubusercontent.com/83093603/116290628-4db9bc00-a7b1-11eb-9669-f4bafa6f27eb.png)
+![image](https://user-images.githubusercontent.com/83093603/116290726-675b0380-a7b1-11eb-8dfe-7645ce998da8.png)
+
+#Features
+The features include:
+
+📝 Full E-Commerce application.
+📡 Realtime database in Firebase.
+📦 Full responsive
+💬 Stripe payment method
+📡 Hosted on Firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
