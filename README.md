@@ -1,7 +1,10 @@
 A small web app that tries to imitate the desktop web version of amazon site, you can add items to the basket, delete them, and have your user authentification feauture thanks to Firebase.
 Amazon Clone is a project where you can create a product, add the products to the cart, do a payment, and watch your order history.
 The design is based on Amazon.
+
+Created using React JS.
 Fully Deployed web app using cloud functions of firestore with hosting on firebase and stylink with HTML ,CSS AND ES6 functions.
+User authentication using firebase.
 
 # Captures
 ![image](https://user-images.githubusercontent.com/83093603/116290472-1c40f080-a7b1-11eb-8aeb-ea9b887c2ec1.png)
