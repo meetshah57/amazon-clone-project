@@ -3,7 +3,7 @@ Amazon Clone is a project where you can create a product, add the products to th
 The design is based on Amazon.
 
 Created using React JS.
-Fully Deployed web app using cloud functions of firestore with hosting on firebase and stylink with HTML ,CSS AND ES6 functions.
+Fully Deployed web app using cloud functions of firestore with hosting on firebase and styling with HTML ,CSS AND ES6 functions.
 User authentication using firebase.
 
 # Captures
