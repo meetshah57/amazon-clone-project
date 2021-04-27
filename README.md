@@ -9,7 +9,7 @@ The design is based on Amazon.
 ![image](https://user-images.githubusercontent.com/83093603/116290628-4db9bc00-a7b1-11eb-9669-f4bafa6f27eb.png)
 ![image](https://user-images.githubusercontent.com/83093603/116290726-675b0380-a7b1-11eb-8dfe-7645ce998da8.png)
 
-#Features
+# Features
 The features include:
 
 📝 Full E-Commerce application.
